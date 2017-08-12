@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "144897114934",
+    "firebase_url": "https://jacky-ac264.firebaseio.com",
+    "project_id": "jacky-ac264",
+    "storage_bucket": "jacky-ac264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144897114934:android:661f1727e6eb2ff4",
+        "android_client_info": {
+          "package_name": "app.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144897114934-pc46ilmqoggg9n3q9jj9u2okhtj2c5pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6h5WoGE8R0yG5KfhskQI4erhMUSgxt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
