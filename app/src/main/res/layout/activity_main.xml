@@ -33,6 +33,12 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
+        <Button
+            android:id="@+id/btnNotesList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go to Notes" />
+
         <EditText
             android:id="@+id/old_email"
             android:layout_width="match_parent"
